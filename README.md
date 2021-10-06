@@ -26,6 +26,8 @@ We would like to thank the organizations and contributors to the technologies an
 ### Disclosure: 
 The content in this tutorial is up to date as of October 2021 and is derived directly from open-source materials. The tools are presented “As is”. Please refer to the original software repositories and documentation for updates and version control. The materials and content displayed in this workshop do not reflect the official policy or position of any agency, organization, or employer. The authors do not accept any responsibility for any of the source materials and software. 
 
+The AWS Image contains synthetic patient data. **Do not upload Personally Identifiable Information (PII) or Protected Health Information (PHI)**. 
+
 <hr>
 
 ## Presenters
