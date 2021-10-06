@@ -1,12 +1,13 @@
 # AMIA 2021 Annual Symposium
-## Workshop 13: Open-Source and Interoperable Approaches for Clinical Decision Support (sponsored by Clinical Decision Support Working Group) 
+### Workshop 13: Open-Source and Interoperable Approaches for Clinical Decision Support (sponsored by Clinical Decision Support Working Group) 
 
-#### Andrey Soares, PhD<sup>1</sup>; Majid Afshar*, MD, MSCR<sup>2</sup>; Joshua E. Richardson*, PhD, MS, MLIS<sup>3</sup>; Chris Moesel<sup>4</sup>; Anthony Solomonides, PhD<sup>5</sup>; Eleanor Barone*, MD<sup>6</sup>; Eric Pan*, MD<sup>7</sup>; Michael A. Grasso, MD, PhD<sup>8</sup>; Lisa Schilling, MD, MSPH<sup>1</sup>; on behalf of the AMIA Clinical Decision Support Working Group*
-##### <sup>1</sup>University of Colorado School of Medicine, Aurora, Colorado; <sup>2</sup>Loyola University Chicago, Maywood, IL; <sup>3</sup>RTI International, Chicago, IL; <sup>4</sup>MITRE Corporation, Maclean, VA; <sup>5</sup>Northshore University, Evanston, IL; <sup>6</sup>Veterans Administration Medical Center, Fayetteville, NC; <sup>7</sup>Westat, Rockville, MD; <sup>8</sup>University of Maryland, Baltimore, MD
+##### Andrey Soares, PhD<sup>1</sup>; Majid Afshar*, MD, MSCR<sup>2</sup>; Joshua E. Richardson*, PhD, MS, MLIS<sup>3</sup>; Chris Moesel<sup>4</sup>; Anthony Solomonides, PhD<sup>5</sup>; Eleanor Barone*, MD<sup>6</sup>; Eric Pan*, MD<sup>7</sup>; Michael A. Grasso, MD, PhD<sup>8</sup>; Lisa Schilling, MD, MSPH<sup>1</sup>; on behalf of the AMIA Clinical Decision Support Working Group*
+###### <sup>1</sup>University of Colorado School of Medicine, Aurora, Colorado; <sup>2</sup>Loyola University Chicago, Maywood, IL; <sup>3</sup>RTI International, Chicago, IL; <sup>4</sup>MITRE Corporation, Maclean, VA; <sup>5</sup>Northshore University, Evanston, IL; <sup>6</sup>Veterans Administration Medical Center, Fayetteville, NC; <sup>7</sup>Westat, Rockville, MD; <sup>8</sup>University of Maryland, Baltimore, MD
 
 <hr>
 
-**Date/Time**: Saturday, Oct 30, 2021 @ 1:00 PM - 4:30 PM (PDT)
+### Date/Time:
+- Saturday, Oct 30, 2021 @ 1:00 PM - 4:30 PM (PDT)
 
 ### Educational Objectives:
 - Acquire a comprehensive knowledge of existing CDS tools and resources.
