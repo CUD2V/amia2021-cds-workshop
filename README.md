@@ -5,7 +5,9 @@
 ##### <sup>1</sup>University of Colorado School of Medicine, Aurora, Colorado; <sup>2</sup>Loyola University Chicago, Maywood, IL; <sup>3</sup>RTI International, Chicago, IL; <sup>4</sup>MITRE Corporation, Maclean, VA; <sup>5</sup>Northshore University, Evanston, IL; <sup>6</sup>Veterans Administration Medical Center, Fayetteville, NC; <sup>7</sup>Westat, Rockville, MD; <sup>8</sup>University of Maryland, Baltimore, MD
 
 <hr>
- 
+
+**Date/Time**: Saturday, Oct 30, 2021 @ 1:00 PM - 4:30 PM 
+
 ### Educational Objectives:
 - Acquire a comprehensive knowledge of existing CDS tools and resources.
 - Be able to author CDS rules (aka artifacts)  in a test or production EHR environment.
