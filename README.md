@@ -6,7 +6,7 @@
 
 <hr>
 
-**Date/Time**: Saturday, Oct 30, 2021 @ 1:00 PM - 4:30 PM 
+**Date/Time**: Saturday, Oct 30, 2021 @ 1:00 PM - 4:30 PM (PDT)
 
 ### Educational Objectives:
 - Acquire a comprehensive knowledge of existing CDS tools and resources.
